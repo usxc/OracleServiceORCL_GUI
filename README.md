@@ -4,6 +4,12 @@
 
 Windows上で特定のOracleサービス（デフォルト: `OracleServiceORCL`）の状態を監視し、GUIを通じて簡単にサービスの開始・停止操作を行うためのシンプルなツールです。
 
+## GUIのプレビュー
+
+以下は、本ツールのGUI画面のスクリーンショットです。
+ 
+![Oracle Service Controller GUI Screenshot](images/screenshot.png)
+ 
 ## 主な機能
 
 * 対象サービスの現在の状態（RUNNING, STOPPED など）をリアルタイムで表示
